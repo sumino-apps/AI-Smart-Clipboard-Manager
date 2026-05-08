@@ -1,6 +1,6 @@
 # AI-Smart-Clipboard-Manager
 
-A modern, intelligent clipboard manager built with React, TypeScript, and Vite. Effortlessly manage your clipboard history with AI-powered tagging, automatic categorization, and smart search capabilities.
+A modern, intelligent clipboard manager built with React, TypeScript, and Vite. Effortlessly manage your clipboard history, automatic categorization, and smart search capabilities.
 
 ## Features
 
@@ -35,22 +35,21 @@ cd AI-Smart-Clipboard-Manager
 
 2. Install dependencies:
 ```bash
-pnpm install
+npm install
 ```
 
 3. Start development server:
 ```bash
-pnpm run dev
+npm run dev
 ```
 
-The application will be available at `http://localhost:5173`
 
 ## Scripts
 
-- `pnpm run dev` - Start development server
-- `pnpm run build` - Build for production
-- `pnpm run preview` - Preview production build locally
-- `pnpm run lint` - Run ESLint (if configured)
+- `npm run dev` - Start development server
+- `npm run build` - Build for production
+- `npm run preview` - Preview production build locally
+- `npm run lint` - Run ESLint (if configured)
 
 ## Project Structure
 
